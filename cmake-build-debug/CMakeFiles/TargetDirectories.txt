@@ -1,3 +1,0 @@
-/home/jxshui/workspace/jasonsui/cpp/LearnBoost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/jxshui/workspace/jasonsui/cpp/LearnBoost/cmake-build-debug/CMakeFiles/LearnBoost.dir
-/home/jxshui/workspace/jasonsui/cpp/LearnBoost/cmake-build-debug/CMakeFiles/edit_cache.dir
